@@ -1,0 +1,17 @@
+{
+  	"name": "TabbyCat",
+  	"version": "1.0",
+  	"manifest_version": 2,
+  	"description": "'Use many tabs effectively",
+	"icons":{"48":"images/kitty.png"},
+	  "permissions": ["tabs"],
+	  
+  	"browser_action":{
+  		"default_icon":"images/kitty.png",
+  		"default_popup":"popup.html"
+	  }
+
+}
+
+
+
